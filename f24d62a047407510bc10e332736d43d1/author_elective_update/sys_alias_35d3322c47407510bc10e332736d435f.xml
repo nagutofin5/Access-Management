@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_422456_access_ma.Git_Hub_Connection</id>
+        <multiple_connections>false</multiple_connections>
+        <name>Git Hub Connection</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>nagarajt_snow</sys_created_by>
+        <sys_created_on>2023-07-12 10:39:27</sys_created_on>
+        <sys_id>35d3322c47407510bc10e332736d435f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_422456_access_ma.Git_Hub_Connection</sys_name>
+        <sys_package display_value="Access Management" source="x_422456_access_ma">f24d62a047407510bc10e332736d43d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Access Management">f24d62a047407510bc10e332736d43d1</sys_scope>
+        <sys_update_name>sys_alias_35d3322c47407510bc10e332736d435f</sys_update_name>
+        <sys_updated_by>nagarajt_snow</sys_updated_by>
+        <sys_updated_on>2023-07-12 10:39:27</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Access Management">f24d62a047407510bc10e332736d43d1</application>
+        <file_path/>
+        <instance_id>3eb27b2edbf20d108aea21c4059619ef</instance_id>
+        <instance_name>dev126314</instance_name>
+        <name>sys_alias_35d3322c47407510bc10e332736d435f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_422456_access_ma.Git_Hub_Connection</id><multiple_connections>false</multiple_connections><name>Git Hub Connection</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>nagarajt_snow</sys_created_by><sys_created_on>2023-07-12 10:39:27</sys_created_on><sys_id>35d3322c47407510bc10e332736d435f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_422456_access_ma.Git_Hub_Connection</sys_name><sys_package display_value="Access Management" source="x_422456_access_ma">f24d62a047407510bc10e332736d43d1</sys_package><sys_policy/><sys_scope display_value="Access Management">f24d62a047407510bc10e332736d43d1</sys_scope><sys_update_name>sys_alias_35d3322c47407510bc10e332736d435f</sys_update_name><sys_updated_by>nagarajt_snow</sys_updated_by><sys_updated_on>2023-07-12 10:39:27</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>-1234018421</payload_hash>
+        <record_name>x_422456_access_ma.Git_Hub_Connection</record_name>
+        <reverted_from/>
+        <source>be4d62a047407510bc10e332736d43d2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nagarajt_snow</sys_created_by>
+        <sys_created_on>2023-07-12 10:39:27</sys_created_on>
+        <sys_id>49e33ae847407510bc10e332736d43a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18949af3aad0000001</sys_recorded_at>
+        <sys_updated_by>nagarajt_snow</sys_updated_by>
+        <sys_updated_on>2023-07-12 10:39:27</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>4de33ae8fe407510a14a1e88ab3cafa1</update_guid>
+        <update_guid_history>4de33ae8fe407510a14a1e88ab3cafa1:-1234018421</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nagarajt_snow</sys_created_by>
+        <sys_created_on>2023-07-12 10:43:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>dc864345bb2c427095d1306aca407f81</sys_id>
+        <sys_metadata>35d3322c47407510bc10e332736d435f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_422456_access_ma.Git_Hub_Connection</sys_name>
+        <sys_package display_value="Access Management" source="x_422456_access_ma">f24d62a047407510bc10e332736d43d1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Access Management">f24d62a047407510bc10e332736d43d1</sys_scope>
+        <sys_scope_delete display_value="">16758d12a7744b589017f8296ce77d90</sys_scope_delete>
+        <sys_update_name>sys_alias_35d3322c47407510bc10e332736d435f</sys_update_name>
+        <sys_update_version display_value="sys_alias_35d3322c47407510bc10e332736d435f">49e33ae847407510bc10e332736d43a2</sys_update_version>
+        <sys_updated_by>nagarajt_snow</sys_updated_by>
+        <sys_updated_on>2023-07-12 10:43:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
